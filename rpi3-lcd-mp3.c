@@ -1,7 +1,7 @@
 /*
  *  rpi3-lcd-mp3
  *
- *  John Wiggins (jcwiggi@gmail.com)
+ *  Jacqueline Wiggins (jcwiggi@gmail.com)
  *
  * NOTE: I have changed from Makefile to cmake.  In order to make this, run the following:
 
